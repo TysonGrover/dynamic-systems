@@ -1,0 +1,22 @@
+Heirarchy:
+LabVIEW Object
+-> System
+	init
+	plant
+	controller
+	observer
+-> -> Mass-Spring-Damper
+	""
+	""
+	""
+	""
+-> -> Pendulum
+	""
+	""
+	""
+	""
+
+Reference -> Error -> Controller -> Plant -> output
+           ^                                | 
+           |                                v
+            <-           Observer         <-
