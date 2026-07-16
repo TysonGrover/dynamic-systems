@@ -12,8 +12,8 @@
         "x2"
     ],
     "Initial_Conditions": [
-        0.0,
-        10.0
+        10.0,
+        0.0
     ],
     "Step_size": 0.01,
     "Data": [
