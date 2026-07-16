@@ -1,0 +1,24 @@
+{
+    "Parameters": {
+        "Param1": 5.0,
+        "Param2": 10.0
+    },
+    "State_Equations": [
+        "x2",
+        "-1*x2-5*x1"
+    ],
+    "State_Variables": [
+        "x1",
+        "x2"
+    ],
+    "Initial_Conditions": [
+        0.0,
+        10.0
+    ],
+    "Step_size": 0.01,
+    "Data": [
+        [0.0, 0.0],
+        [0.0, 0.0],
+        [0.0, 0.0]
+    ]
+}
