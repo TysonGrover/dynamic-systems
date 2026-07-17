@@ -1,11 +1,11 @@
 {
     "Parameters": {
-        "Param1": 5.0,
-        "Param2": 10.0
+        "Param1": -3.0,
+        "Param2": 3.0
     },
     "State_Equations": [
         "x2",
-        "-1*x2-5*x1"
+        "-3*x2-5*x1+0.0"
     ],
     "State_Variables": [
         "x1",
@@ -20,4 +20,5 @@
     "Data": [
         [0.0, 1.0, 0.0]
     ]
+    "Input":"+0.0"
 }
