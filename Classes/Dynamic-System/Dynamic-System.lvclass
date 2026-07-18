@@ -66,7 +66,7 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1117782528</Property>
 	</Item>
-	<Item Name="controller_PID.vi" Type="VI" URL="../controller_PID.vi">
+	<Item Name="controller_PID_NI.vi" Type="VI" URL="../controller_PID_NI.vi">
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">4194304</Property>
 		<Property Name="NI.ClassItem.InvokeUsage" Type="UInt">1</Property>
