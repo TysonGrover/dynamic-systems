@@ -1,0 +1,29 @@
+{
+    "Parameters": {
+        "Param1": -10.0,
+        "Param2": 10.0
+    },
+    "State_Equations": [
+        "h2",
+        "-0.75*h2-0.04*h1+0.0"
+    ],
+    "State_Variables": [
+        "h1",
+        "h2"
+    ],
+    "Initial_Conditions": [
+        10.0,
+        0.0
+    ],
+    "Step_size": 0.1,
+    "T_f": 30.0,
+    "Data": [
+        [0.0, 10.0, 0.0]
+    ],
+    "Input":"+0.0",
+    "PID_gains": {
+         "P": 1.0,
+         "I": 0.0,
+         "D": 0.0
+     } 
+}
